@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\bin\Debug\netcoreapp3.1\TetrisCSharp.exe
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\bin\Debug\netcoreapp3.1\TetrisCSharp.deps.json
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\bin\Debug\netcoreapp3.1\TetrisCSharp.runtimeconfig.json
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\bin\Debug\netcoreapp3.1\TetrisCSharp.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\bin\Debug\netcoreapp3.1\TetrisCSharp.dll
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\bin\Debug\netcoreapp3.1\TetrisCSharp.pdb
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.dll
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.pdb
+C:\Users\LENOVO\Documents\C#Projects\TetrisCSharp\obj\Debug\netcoreapp3.1\TetrisCSharp.genruntimeconfig.cache
